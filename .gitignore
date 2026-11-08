@@ -1,0 +1,15 @@
+# Visual Studio cache
+.vs/
+
+# Build folders
+x64/
+x86/
+Debug/
+Release/
+3D-anima.e4ae4bd8/
+
+# Compiled files
+*.obj
+*.pdb
+*.ilk
+*.exe
